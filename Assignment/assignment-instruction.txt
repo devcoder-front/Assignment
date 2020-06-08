@@ -1,0 +1,36 @@
+
+
+About Us:
+
+We're an exciting, high growth startup with tens of thousands of users and a product that's making an impact.
+We offer LONG term work, REGULARLY scheduled pay raises, and LOTS of technical/creative freedom.
+
+Task Overview:
+We are seeking an experienced Angular developer who can BUILD things. Talk is cheap - we want to see how you think, code and approach problems.
+
+Please track the time you spend on this trial as we will compensate you at your hourly rate IF hired.
+
+We will not be using any work from your trial in any of our products. All candidates will be completing this same task so we can assess a best fit.
+
+
+Instructions: The instructions below are deliberately short in order to see how you take on the challenge. Do as much or as little as you please, it's all a part of your assessment.
+
+Please create a new Angular project using the Angular CLI and implement Mockup.png.
+
+You are free to struture the project and code however you like. You can find the assets in the assets directory. 
+
+NOTE:
+1. I'd like to see the mockup be responsive. This is very important that you have the skills to make UI responsive across different devices and screens.
+2. You don't need to use a different image per tile. Use the default image provided in the assets directory.
+
+When finished, please send a url to a public Git repo where the code can be accessed. I will be cloning the repo and running the app.
+
+If I like what I see, I will ask you to chat and you'll most likely get the job at that point.
+
+Any other questions related to the task? Please message through UpWork.
+
+Best of luck and hope to chat with you!
+Mark
+
+
+https://github.com/devcoder-front/Assignment.git

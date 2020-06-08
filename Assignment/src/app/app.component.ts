@@ -1,11 +1,11 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   title = 'Our environmental Projects are providing many environmental benefits arround the world';
   price = '$7.50/ton'
   card_1_Title = 'kariba redd+ - Zimbabwe'
@@ -43,6 +43,12 @@ export class AppComponent {
   card_8_desc  = 'Rehabilitating degraded urban and sub-urban areas through reforestation, adding significant greenery and restoring biodiversity.'
   price3 = '$22.50/ton'
 
-
+ ngOnInit(){
+  window.addEventListener('resize', () => {
+    // We execute the same script as before
+    let vh = window.innerHeight * 0.01;
+    document.documentElement.style.setProperty('--vh', `${vh}px`);
+  });
+ }
 
 }
